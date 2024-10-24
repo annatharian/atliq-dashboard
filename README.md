@@ -5,6 +5,14 @@
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data."
 
+## Objectives:
+### Develop key metrics:
+Calculate and visualize KPIs like Revenue, Occupancy %, RevPAR (Revenue per Available Room), ADR (Average Daily Rate), DSRN (Daily Sellable Room Nights), DBRN (Daily Booked Room Nights), and DURN (Daily Utilized Room Nights).
+### Create an intuitive dashboard: 
+Design a dashboard that allows stakeholders to explore these KPIs by city, room type, and week, helping them understand performance trends and make data-driven decisions.
+### Provide insights and recommendations: 
+Analyze the data to identify patterns, trends, and potential areas for improvement, with a focus on improving operational efficiency and revenue growth.
+
 ![image](https://github.com/user-attachments/assets/1447296c-6bc9-4b73-bdef-df18f948c229)
 
 The Key Performance Indicators(KPIs) in the hospitality industry:
@@ -22,3 +30,12 @@ The Key Performance Indicators(KPIs) in the hospitality industry:
 6. **Daily Booked Room Nights (DBRN)**: This represents the number of room nights that have been booked for a given day. It's a key indicator of how well a hotel is selling its available inventory.
 
 7. **Daily Utilized Room Nights (DURN)**: This metric shows the number of room nights that have actually been used (stayed in) on a given day, as opposed to simply being booked. It can provide insights into cancellations, no-shows, or other factors affecting room utilization.
+
+## Insights and Recommendations
+
+## Results and Impact
+Delivered a dynamic and comprehensive dashboard that allowed AtliQ Grands' management to:
+* Track key performance metrics across all properties.
+* Identify underperforming locations and take corrective actions.
+* Adjust pricing and marketing strategies based on real-time data.
+* Better understand the impact of cancellations and optimize room utilization.
