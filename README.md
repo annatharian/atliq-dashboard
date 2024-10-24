@@ -13,9 +13,7 @@ Design a dashboard that allows stakeholders to explore these KPIs by city, room 
 ### Provide insights and recommendations: 
 Analyze the data to identify patterns, trends, and potential areas for improvement, with a focus on improving operational efficiency and revenue growth.
 
-![image](https://github.com/user-attachments/assets/1447296c-6bc9-4b73-bdef-df18f948c229)
-
-The Key Performance Indicators(KPIs) in the hospitality industry:
+## The Key Performance Indicators(KPIs) in the hospitality industry:
 
 1. **Revenue**: This is the total income generated from the hotel operations, typically from room bookings, but it can also include other services like food and beverages, events, and additional services. It's a key measure of overall business performance.
 
@@ -32,6 +30,7 @@ The Key Performance Indicators(KPIs) in the hospitality industry:
 7. **Daily Utilized Room Nights (DURN)**: This metric shows the number of room nights that have actually been used (stayed in) on a given day, as opposed to simply being booked. It can provide insights into cancellations, no-shows, or other factors affecting room utilization.
 
 ## Insights and Recommendations
+![image](https://github.com/user-attachments/assets/1447296c-6bc9-4b73-bdef-df18f948c229)
 
 ## Results and Impact
 Delivered a dynamic and comprehensive dashboard that allowed AtliQ Grands' management to:
